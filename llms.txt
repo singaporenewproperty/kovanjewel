@@ -1,0 +1,9 @@
+# Kovan Jewel
+
+> Kovan Jewel — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/kovanjewel/
+
+## Pages
+
+- [Kovan Jewel](https://singaporenewproperty.github.io/kovanjewel/): Kovan Jewel property information.
